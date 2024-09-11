@@ -5,7 +5,11 @@
 </p>
 Are you looking for a trading platform to increase your assets? Let SNUTX be your choice. As an emerging international trading platform, SNUTX attracts global users with its cutting-edge technology and rich functional options.
 
-[TOC]
+## Table of Contents
+> ### 1. _What is Snutx?_
+> ### 2. _How Does Snutx Operate?_
+> ### 3. _Features_
+> ### 4. _FAQs_
 
 ## What is Snutx?
 Snutx is a technology-driven cryptocurrency exchange founded in 2020 and headquartered in the United States. The platform is dedicated to providing secure and efficient digital asset trading services to meet the investment needs of global users. The main services of Snutx include a diverse range of cryptocurrency trading options, advanced derivatives trading, and personalized financial solutions.
